@@ -81,7 +81,7 @@
     - [MySite](https://nadezhdalebed.github.io/MySite/)
     - [HelloWorld](https://nadezhdalebed.github.io/HelloWorld/)
 
-7. **Education:** I have a pedagogical education. In 2017, I graduated online courses from GeekBrains in programming basics. I have certificate wich you can see: [Certificate from GeekBrains](/certificate.pdf). And now I want to study in more detail Front-end and JavaScript.
+7. **Education:** I have a pedagogical education. In 2017, I graduated online courses from GeekBrains in programming basics. I have certificate wich you can see: [Certificate from GeekBrains](../assets/certificate.pdf). And now I want to study in more detail Front-end and JavaScript.
 
 8. **English:** Last year I studied English with a tutor. Now my english level B1. Now I want to improve my level of English for a better understanding of tasks and further work. While I work on various online platforms (Duolingо, Lingualeo).
 
