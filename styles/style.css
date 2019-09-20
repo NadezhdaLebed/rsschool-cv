@@ -7,4 +7,91 @@
 .wrapper {
     max-width: 1024px;
     margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #24292e;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #eaecef;
+    border-bottom: 1px solid #eaecef;
+    margin-top: 32px;
+    padding: 10px 0;
+}
+
+.title {
+    font-weight: 600;
+    line-height: 1.25;
+    font-size: 32px;
+}
+
+.photo {
+    width: 100px;
+    height: 90px;
+    border-radius: 50%;
+}
+
+.resume {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.resume-list {
+    padding: 10px 0 0 32px;
+}
+
+.resume-item {
+    margin-top: 20px;
+}
+
+.resume-item:first-child {
+    margin-top: 0;
+}
+
+.resume__info {
+    margin-top: 10px;
+}
+
+.resume__info-item {
+    margin-top: 5px;
+}
+
+..resume__info-item:first-child {
+    margin-top: 0;
+}
+
+.resume-link {
+    color: #0366d6;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.resume-link:hover {
+    text-decoration: underline;
+}
+
+.resume__code {
+    margin-top: 16px;
+    font-weight: bold;
+}
+
+.resume__code-example {
+    margin-top: 16px;
+    background-color: #f8f8f8;
+    font-style: oblique;
+}
+
+.resume__project-item {
+    margin-top: 5px;
+}
+
+.resume__project-item:first-child {
+    margin-top: 0;
+}
+
+.resume__footer {
+    font-weight: bold;
+    margin: 16px 0 32px;
 }
